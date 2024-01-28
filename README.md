@@ -1,5 +1,6 @@
 # Sampling_Assignment_102297010
 Objective
+
 The primary objective of this assignment is to address class imbalance in the provided dataset (Creditcard_data.csv) using various resampling techniques. The code focuses on implementing Random Under Sampling and evaluating the impact on five different machine learning models.
 Models used are: Logistic Regression, Decision Tree Classifier, Random Forest Claassifier, Gradent boosting classifier, Support vector classifier
 
